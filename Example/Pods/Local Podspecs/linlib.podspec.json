@@ -1,0 +1,33 @@
+{
+  "name": "linlib",
+  "version": "0.1.0",
+  "summary": "A short description of linlib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/373826445@qq.com/linlib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "373826445@qq.com": "373826445@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/373826445@qq.com/linlib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "linlib/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYKit-fork": [
+
+    ],
+    "QMUIKit": [
+
+    ]
+  }
+}

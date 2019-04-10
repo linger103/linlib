@@ -1,0 +1,6 @@
+framework module linlib {
+  umbrella header "linlib-umbrella.h"
+
+  export *
+  module * { export * }
+}

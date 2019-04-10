@@ -1,0 +1,6 @@
+framework module YYKit_fork {
+  umbrella header "YYKit-fork-umbrella.h"
+
+  export *
+  module * { export * }
+}
