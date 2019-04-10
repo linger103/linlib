@@ -1,0 +1,6 @@
+use_frameworks!
+target 'linlib_Tests' do
+  pod 'linlib', :path => '../'
+  
+  
+end
